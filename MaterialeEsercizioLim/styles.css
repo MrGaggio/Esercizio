@@ -1,0 +1,85 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-size: 100%;
+
+}
+.container {
+    width: 1200px;
+    height: 900px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 20px;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.logo {
+    width: 200px;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+
+h1 {
+    color: rgb(0, 255, 42);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;   
+    font-size: 30px;
+}
+
+h2 {
+    display: inline-block;
+    margin-bottom: 0;
+    color: white;
+}
+
+p {
+    margin: 10px 0 0 0;
+    color: white;
+}
+
+.pulsanti {
+    width: 1000px;
+    height: 40px;
+    margin-left: 100px;
+    padding-top: 10px;
+    background-color:rgb(0, 255, 42) ;
+    text-align: center;
+}
+
+.gino22 {
+    margin-left: 100px;
+}
+
+.gino22charge {
+    width: 400px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #ebb821;
+    margin-left: 100px;
+}
+
+.mike24 {
+    margin-left: 100px;
+}
+
+.mike24charge {
+    width: 800px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: limegreen;
+    margin-left: 100px;
+}
+
+.fede154 {
+    margin-left: 100px;
+}
+
+.fede154charge {
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgba(202, 19, 19, 0.712);
+    margin-left: 100px;
+}
